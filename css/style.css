@@ -1,0 +1,27 @@
+.h{
+    display: none;
+}
+.s{
+    font-size: 700;
+}
+.block{
+    position: absolute;
+    background-color: #abc;
+    left: 50px;
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+}
+
+#block1 , #block2{
+    background-color: #bca;
+    width: 200px;
+    height: 100%;
+    text-align: center;
+    border: 2px solid green;
+    margin: 3px;
+    font-size: 14px;
+  }
+  #go1, #go2, #go3, #go4 {
+    font-size: 14px;
+  }
